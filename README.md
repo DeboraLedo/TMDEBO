@@ -1,10 +1,10 @@
-# 26 - Bienvenidos a la TMDEBO
+# Bienvenidos a la TMDEBO
 
-# 26 - Este es un proyecto que realicé durante el Bootcamp con Plataforma 5 
+# Este es un proyecto que realicé durante el Bootcamp con Plataforma 5 
 
-# 26 - Duración: UNA SEMANA
+#  Duración: UNA SEMANA
 
-# 26 - Esos fueron los requerimientos
+#  Esos fueron los requerimientos
 
 
 ### Objetivos
