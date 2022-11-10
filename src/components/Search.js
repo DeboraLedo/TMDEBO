@@ -14,8 +14,8 @@ const Search = () => {
     setSearch(e.target.value);
   };
 
-  const busqueda = `https://api.themoviedb.org/3/search/movie?=${search}`;
 
+  const busqueda = `https://api.themoviedb.org/3/search/movie?query=${search}?api_key=7737eb5d8db436673b45efb8e8226132`
   const showResults = (e) => {
     e.preventDefault();
     axios
